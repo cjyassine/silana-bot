@@ -71,7 +71,11 @@
     "pretty-ms": "^7.0.1",
     "yt-search":"*",
     "gemini-ai": "*",
+    "node-gtts": "*",
     "ytdl-core":"*",
+    "api-dylux":"*",
+    "aptoide-scraper":"*",
+    "@bochilteam/scraper-sosmed":"*",
     "@bochilteam/scraper":"*",
     "yargs": "^17.7.1"
   }

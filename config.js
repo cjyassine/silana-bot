@@ -10,8 +10,8 @@ global.setting = {
 
 global.owner = [
 ['212717457920', 'Nour', true],
-['212605784394', 'imillie', false],
-['212693227969', '8bal', false]
+['212605784394', 'silana', false],
+['', '', false]
 ]
 
 global.info = {
@@ -28,7 +28,7 @@ global.info = {
 }
 
 // Thumbnail 
-global.url = {
+global.media = {
  profil: 'https://i.ibb.co/3Fh9V6p/avatar-contact.png',
  did: 'https://telegra.ph/file/fdc1a8b08fe63520f4339.jpg',
  rules: 'https://telegra.ph/file/afcfa712bd09f4fcf027a.jpg',
@@ -50,6 +50,8 @@ global.url = {
  sgh:  'https://github.com/noureddineouafy',
  sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
 }
+
+global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
 
 // Info Wait
 global.msg = {
